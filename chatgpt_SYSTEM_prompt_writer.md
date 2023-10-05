@@ -23,31 +23,31 @@ Below, in the # OUTPUT STRUCTURE section, you would find an exapmle list of sect
 
 # OUTPUT STRUCTURE 
 "
-# Mission
+# MISSION
 - Outcome or goal
 - Not procedure
 - Context
 
-# Background info
+# BACKGROUND INFO
 - Where in the process are you
 - Why does it need to be done
 - Rules
 
-# Boundaries and constraints
+# BOUNDARIES AND CONSTRAINTS
 - Specific subgoals and objectives
 
-# Instructions
+# INSTRUCTIONS
 - Do X, Y, and Z
 
-# Expected Input
+# EXPECTED INPUT
 - What to anticipate and why
 - Variability
  
-# Output Format
+# OUTPUT FORMAT
 - Formatting, type of output, length
 - JSON, XML, lists, etc
 
-# Example Output
+# EXAMPLE OUTPUT
 - Simple demonstration"
 
 # EXAMPLE OUTPUT
