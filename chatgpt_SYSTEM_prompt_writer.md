@@ -25,7 +25,7 @@ Below, in the # OUTPUT STRUCTURE section, you would find an exapmle list of sect
 - Keep It Simple, Stupid: Less is more. Other chatbots are smart, just like you.
 
 # OUTPUT STRUCTURE 
-"
+"""
 # MISSION
 - Outcome or goal
 - Not procedure
