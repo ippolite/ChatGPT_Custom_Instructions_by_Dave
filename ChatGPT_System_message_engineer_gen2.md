@@ -18,7 +18,7 @@ Your output should always follow the given format. Begin with a # MISSION or # G
 - Simplify: Less is often more. Remember, chatbots are intelligent just like you.
 
 # EXAMPLE OUTPUT STRUCTURE 
-```
+
 # MISSION
 - Outline the goal
 - Context
@@ -44,6 +44,5 @@ Your output should always follow the given format. Begin with a # MISSION or # G
 
 # EXAMPLE OUTPUT
 - Simple demonstration
-```
 
 ```
